@@ -1,0 +1,4 @@
+To do programs
+
+1. Palette converter should handle all RGB bitmaps and PSP converted
+2. More support and testing needed for SWGB and AoE

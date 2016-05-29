@@ -1,0 +1,1796 @@
+gra00002------Archer firing
+gra00005------Archer Dying
+gra00008------Archer standing
+gra00009------Archer Decaying
+gra00012------Archer Moving
+gra00021------North European Archery Range Feudal Age
+gra00022------Asian Archery Range Feudal Age
+gra00023------Arabic Archery Range Feudal Age
+gra00024------West European Archery Range Feudal Age
+gra00033------North European Archery Range Castle Age & Imperial Age
+gra00034------Asian Archery Range Castle Age & Imperial Age
+gra00035------Arabic Archery Range Castle Age & Imperial Age
+gra00036------West European Archery Range Castle Age & Imperial Age
+gra00050------Some sort of Arrow
+gra00053------Piece of the True Cross?
+gra00057------Relic
+gra00061------Bombard firing
+gra00064------Bombard Dying
+gra00067------Bombard standing still
+gra00068------Bombard Decaying
+gra00071------Bombard Moving
+gra00073------Explosion Smoke
+gra00075------Bigger Explosion Smoke
+gra00090------North European Blacksmith Feudal Age
+gra00091------Asian Blacksmith Feudal Age
+gra00092------Arabic Blacksmith Feudal Age
+gra00093------West European Blacksmith Feudal Age
+gra00098------North European Smoke from Blacksmith
+gra00099------Asian Smoke from Blacksmith
+gra00100------Arabic Smoke from Blacksmith
+gra00101------West European Smoke from Blacksmith
+gra00102------North European Blacksmith Castle Age & Imperial Age
+gra00103------Asian Blacksmith Castle Age & Imperial Age
+gra00104------Arabic Blacksmith Castle Age & Imperial Age
+gra00105------West European Blacksmith Castle Age & Imperial Age
+gra00118------Possible Rocket or Burning Large Arrow
+gra00119------Shadow / Background for gra00118 arrow
+gra00120------Possible Scorpion Arrow
+gra00130------North European Barracks Feudal Age
+gra00131------Asian Barracks Feudal Age
+gra00132------Arabic Barracks Feudal Age
+gra00133------West European Barracks Feudal Age
+gra00142------North European Barracks Castle Age & Imperial Age
+gra00143------Asian Barracks Castle Age & Imperial Age
+gra00144------Arabic Barracks Castle Age & Imperial Age
+gra00145------West European Barracks Castle Age & Imperial Age
+gra00160------Single Handed Axeman Fighting
+gra00163------Single Handed Axeman Dying
+gra00166------Warrior with Round Shield and Sword?
+gra00167------Single Handed Axeman Decaying
+gra00170------Warrior with Round Shield and Sword moving
+gra00171------Battering Ram
+gra00173------Swinging Part of a Battering Ram
+gra00176------Dying Battering Ram
+gra00179------Battering Ram – possibly the same as gra00171
+gra00180------Battering Ram Decaying
+gra00181------Battering Ram – Possibly the same as gra00171 and gra00179
+gra00183------Turning Wooden Wheels for the Battering Ram
+gra00186------Crossbowman Firing
+gra00189------Crossbowman Dying
+gra00192------Crossbowman Standing Still
+gra00193------Crossbowman Decaying
+gra00196------Crossbowman Moving
+gra00199------Cataphract Fighting
+gra00202------Cataphract Dying
+gra00205------Cataphract Standing still
+gra00206------Cataphract Decaying
+gra00209------Cataphract Moving
+gra00210------Burning Boulder possibly Trebuchet shot
+gra00212------Boulder possibly for Trebuchet
+gra00215------Chu-Ko-Nu Attacking
+gra00218------Chu-Ko-Nu dying
+gra00221------Chu-Ko-Nu standing still
+gra00222------Chu-Ko-Nu decaying
+gra00225------Chu-Ko-Nu moving
+gra00226------Cliffs
+gra00227------Reverse Cliff tops 
+gra00228------Reverse Cliff tops
+gra00229------Cliff section
+gra00230------Cliff section
+gra00231------Cliff section
+gra00232------Cliff section
+gra00233------Cliff section
+gra00234------Cliff section
+gra00235------Cliff section – lighter colour?
+gra00236------Small size building sequence
+gra00237------Medium size building sequence
+gra00238------Large size building sequence
+gra00239------Huge size building sequence
+gra00241------Wonder size building sequence
+gra00272------Possible Cannonball in a cloud of bits?
+gra00273------Shadow for West European monastery
+gra00278------North European Monastery
+gra00279------Asian Monastery.
+gra00280------Arabic Monastery
+gra00281------West European Monastery.
+gra00294------Shadow for North European castle
+gra00295------Shadow for Asian castle
+gra00296------Shadow for Arabic castle
+gra00297------Shadow for West European castle
+gra00302------North European Castle
+gra00303------Asian Castle
+gra00304------Arabic Castle
+gra00305------West European Castle
+gra00320------Cavalry Archer firing bow
+gra00323------Cavalry Archer dying
+gra00326------Cavalry Archer standing still
+gra00327------Cavalry Archer decaying
+gra00330------Cavalry Archer moving
+gra00336------Deer Eating
+gra00339------Deer dying
+gra00342------Deer Eating again?
+gra00343------Deer moving
+gra00344------Deer decaying
+gra00348------Deer moving again?
+gra00351------Mameluke attacking
+gra00354------Mameluke dying
+gra00357------Mameluke standing still
+gra00358------Mameluke decaying
+gra00361------Mameluke moving
+gra00362------4 Small Flames
+gra00363------4 Medium Flames
+gra00364------4 Bigger Flames
+gra00374------Shadow from Dark Age Dock
+gra00376------Dark Age Dock
+gra00377------Shadow for gra00385
+gra00378------Shadow for gra00386
+gra00379------Shadow for gra00387
+gra00380------Shadow for gra00388
+gra00385------North European Dock Feudal Age
+gra00386------Asian Dock Feudal Age
+gra00387------Arabic Dock Feudal Age
+gra00388------West European Dock Feudal Age
+gra00389------Shadow for gra00397
+gra00390------Shadow for gra00398
+gra00391------Shadow for gra00399
+gra00392------Shadow for gra00400
+gra00397------North European Dock Castle Age & Imperial Age
+gra00398------Asian Dock Castle Age & Imperial Age
+gra00399------Arabic Dock Castle Age & Imperial Age
+gra00400------West European Dock Castle Age & Imperial Age
+gra00409------Beta release dock
+gra00410------Asian Castle Age dock? Similar to gra00398
+gra00411------Arabic Castle Age dock? with blankets similar to gra00399
+gra00412------West European Castle Age dock similar to gra00400
+gra00414------Burning ball?
+gra00416------Smoke from explosion
+gra00420------Fish (Perch)
+gra00424------Small Fire
+gra00425------Small Fire
+gra00426------Small Fire
+gra00427------Medium Fire
+gra00428------Medium Fire
+gra00429------Bigger Fire
+gra00430------Bigger Fire than gra00428
+gra00431------Bigger Fire than gra00430
+gra00432------Same size fire as gra00428?
+gra00435------Forest/Oak Trees
+gra00441------Small boat sinking maybe the fishing boat?
+gra00444------Fishing ship
+gra00446------Fishing ship nets
+gra00449------Fishing ship – same as gra00444?
+gra00495------Ship sinking – maybe a galleon?
+gra00499------Ship from ROR
+gra00575------Hawk shadow gliding
+gra00576------Hawk gliding
+gra00577------Hawk shadow flying
+gra00578------Hawk flying
+gra00581------Hand cannoneer firing
+gra00584------Hand cannoneer dying
+gra00587------Hand cannoneer standing
+gra00588------Hand cannoneer decaying
+gra00591------Hand cannonner moving
+gra00594------ROR Swordsman fighting
+gra00597------ROR Swordsman dying
+gra00600------ROR Swordsman standing
+gra00601------ROR Swordsman decaying
+gra00604------ROR Swordsman moving
+gra00607------Elite Skirmisher throwing spear
+gra00610------Elite Skirmisher dying
+gra00613------Elite Skirmisher standing
+gra00614------Elite Skirmisher decaying
+gra00617------Elite Skirmisher moving
+gra00634------Janissary firing
+gra00637------Janissary dying
+gra00640------Janissary standing
+gra00641------Janissary decaying
+gra00644------Janissary moving
+gra00653------Ship ROR?
+gra00657------Ship ROR? - appears identical to gra00653
+gra00663------Knight Fighting
+gra00666------Knight dying
+gra00669------Knight standing
+gra00670------Knight decaying
+gra00673------Knight moving
+gra00676------Camel fighting
+gra00679------Camel dying
+gra00682------Camel standing
+gra00683------Camel decaying
+gra00686------Camel moving
+gra00689------Vikings Long Boat
+gra00692------Ship destroyed - appears identical to gra00495
+gra00695------Vikings Long Boat - appears identical to gra00689 & gra00699
+gra00696------Galley ROR
+gra00699------Vikings Long Boat  - apears identical to gra00689 & gra00695
+gra00702------Longbowman firing
+gra00705------Longbowman dying
+gra00708------Longbowman standing
+gra00710------Longbowman decaying
+gra00713------Longbowman moving
+gra00716------Mangonel firing
+gra00719------Mangonel dying
+gra00722------Mangonel standing
+gra00723------Mangonel decaying
+gra00724------Mangonel moving
+gra00726------Mangonel wheels turning
+gra00730------Shadow of a Mills sails
+gra00732------Smaller part shadow of Mill
+gra00733------Darker version of gra00730
+gra00734------Animation for North European Mill
+gra00735------Animation for Asian Mill
+gra00736------Animation for Arabic Mill
+gra00737------Animation for West European Mill
+gra00738------North European Mill Feudal Age without animation
+gra00739------Asian Mill Feudal Age without Animation
+gra00740------Arabic Mill Feudal Age without Animation
+gra00741------West European Mill Feudal Age without Animation
+gra00742------North European animation for mill sails shadows? Castle Age & Imperial Age
+gra00744------Arabic animation for mill sails shadows? Castle Age & Imperial Age
+gra00745------West European animation for mill sails shadows? Castle Age & Imperial Age
+gra00746------North European mill animation Feudal Age
+gra00747------Asian mill animation Feudal Age
+gra00748------Arabic mill animation Feudal Age
+gra00749------West European mill animation Feudal Age
+gra00750------North European mill without Animation Castle Age & Imperial Age
+gra00751------Asian Mill without Animation Castle Age & Imperial Age
+gra00752------Arabic Mill without Animation Castle Age & Imperial Age
+gra00753------West European Mill without Animation Castle Age & Imperial Age
+gra00768------Monk fighting
+gra00771------Monk dying
+gra00774------Monk standing
+gra00775------Monk decaying
+gra00776------Monk fighting appears identical to gra00768
+gra00779------Monk moving
+gra00782------Mangudai fighting
+gra00785------Mangudai dying
+gra00788------Mangudai standing
+gra00789------Mangudai decaying
+gra00792------Mangudai moving
+gra00795------War elephant fighting
+gra00798------War elephant dying
+gra00801------War elephant standing
+gra00802------War elephant decaying
+gra00805------War elephant moving
+gra00817------North European Market Castle Age
+gra00818------Asian Market Castle Age
+gra00819------Arabic Market Castle Age
+gra00820------West European Market Castle Age
+gra00849------Cavalier fighting
+gra00852------Cavalier dying
+gra00855------Cavalier standing
+gra00856------Cavalier decaying
+gra00859------Cavalier moving
+gra00867------Spearman fighting
+gra00870------Spearman dying
+gra00873------Spearman standing
+gra00874------Spearman decaying
+gra00877------Spearman moving
+gra00889------Dark Age town center support shadows
+gra00891------Top piece of Dark Age Town Center main building
+gra00892------North European town center support shadows Feudal Age
+gra00893------Asian town center support shadows Feudal Age
+gra00894------Arabic town center support shadows Feudal Age
+gra00895------West European town center support shadows Feudal Age
+gra00898------Cup? and something?
+gra00900------North European top piece of Feudal Age Town Center
+gra00901------Asian top piece of Feudal Age Town Center
+gra00902------Arabic top piece of Feudal Age Town Center
+gra00903------West European top piece of Feudal Age Town Center
+gra00904------North European town center support shadows Castle Age
+gra00905------Asian town center support shadows Castle Age
+gra00906------Arabic town center support shadows Castle Age
+gra00907------West European town center support shadows Castle Age
+gra00912------North European top piece of Castle Age Town Center
+gra00913------Asian top piece of Castle Age Town Center
+gra00914------Arabic top piece of Castle Age Town Center
+gra00915------West European top piece of Castle Age Town Center
+gra00916------North European town center support shadows Imperial age
+gra00917------Asian town center support shadows Imperial age
+gra00918------Arabic town center support shadows Imperial age
+gra00919------West European town center support shadows Imperial age
+gra00920------North European town center flooring Imperial age
+gra00921------Asian town center flooring Imperial age
+gra00922------Arabic town center flooring Imperial age
+gra00923------West European town center flooring Imperial age
+gra00924------North European top piece of Imperial Age Town Center
+gra00925------Asian top piece of Imperial Age Town Center
+gra00926------Arabic top piece of Imperial Age Town Center
+gra00927------West European top piece of Imperial Age Town Center
+gra00928------Rubble 2 x 2
+gra00929------Rubble 3 x 3
+gra00930------Rubble 4 x 4
+gra00931------Rubble 5 x 5
+gra00932------Rubble 2 x 2 more burnt
+gra00933------Wonder size rubble 
+gra00936------Scorpion firing
+gra00939------Scorpion dying
+gra00942------Scorpion standing
+gra00943------Scorpion decaying
+gra00944------Scorpion moving
+gra00946------Scorpion wheels
+gra00955------North European Siege Workshop
+gra00956------Asian Siege Workshop
+gra00957------Arabic Siege Workshop
+gra00958------West European Siege Workshop
+gra00971------Small Smoke puff or explosion?
+gra00974------Samurai fighting
+gra00977------Samurai dying
+gra00980------Samurai standing
+gra00981------Samurai decaying
+gra00984------Samurai moving
+gra00987------Militia fighting
+gra00990------Militia dying
+gra00993------Militia standing
+gra00994------Militia decaying
+gra00997------Militia moving
+gra01006------North European Feudal Age Stable  
+gra01007------Asian Feudal Age Stable
+gra01008------Arabic Feudal Age Stable
+gra01009------West European Feudal Age Stable
+gra01018------North European Castle Age & Imperial Age Stable
+gra01019------Asian Castle Age & Imperial Age Stable
+gra01020------Arabic Castle Age & Imperial Age Stable
+gra01021------West European Castle Age & Imperial Age Stable
+gra01034------Stone mine
+gra01035------Tree Stumps
+gra01038------Man-at-arms fighting
+gra01041------Man-at-arms dying
+gra01044------Man-at-arms standing
+gra01045------Man-at-arms decaying
+gra01048------Man-at-arms moving
+gra01051------Throwing axeman fighting
+gra01054------Throwing axeman dying
+gra01057------Throwing axeman standing
+gra01058------Throwing axeman decaying
+gra01061------Throwing axeman moving
+gra01119------Empty trade cart dying
+gra01122------Empty trade cart standing
+gra01124------Empty trade cart decaying
+gra01127------Full trade cart moving
+gra01136------West European Trade Workshop
+gra01137------Asian Trade Workshop
+gra01138------Trade Workshop same as gra01136
+gra01139------Trade Workshop same as gra01136
+gra01175------Longswordsman fighting
+gra01178------Longswordsman dying
+gra01181------Longswordsman standing
+gra01182------Longswordsman decaying
+gra01185------Longswordsman moving
+gra01188------Teutonic knight fighting
+gra01191------Teutonic knight dying
+gra01194------Teutonic knight standing
+gra01195------Teutonic knight decaying
+gra01198------Teutonic knight moving
+gra01237------Trebuchet firing
+gra01241------Trebuchet dying
+gra01244------Trebuchet standing
+gra01246------Trebuchet decaying
+gra01250------Tree Shadow for gra01251
+gra01251------Forest Tree
+gra01252------Tree chopped down
+gra01253------Tree shadow for gra01254
+gra01254------Tree
+gra01255------Tree shadow for gra01256
+gra01256------Tree
+gra01257------Tree shadow for gra01258
+gra01258------Tree
+gra01259------Tree shadow for gra01260
+gra01260------Tree
+gra01261------Tree shadow for gra01262
+gra01262------Dead Tree
+gra01263------Tree shadow for gra01264
+gra01264------Tree
+gra01265------Tree shadow for gra01266
+gra01266------Tree
+gra01267------Tree shadow for gra01268
+gra01268------Dead Tree
+gra01269------Tree shadow for gra01270
+gra01270------Tree
+gra01271------Tree shadow for gra01272
+gra01272------Tree
+gra01273------Tree shadow
+gra01353------Shadows for beta walls in gra01353
+gra01355------Beta version walls
+gra01360------Flag Banner 
+gra01361------Flag Banner
+gra01362------Flag Banner
+gra01363------Flag Banner
+gra01372------Flag Banner
+gra01373------Flag Banner
+gra01374------Flag Banner
+gra01375------Flag Banner – beta? Hanging in doorway?
+gra01382------Female villager fighting?
+gra01385------Female villager dying
+gra01388------Female villager standing
+gra01389------Female villager decaying
+gra01392------Female villager moving
+gra01398------Female villager builder dying
+gra01401------Female villager builder standing
+gra01402------Female villager builder decaying
+gra01405------Female villager builder moving
+gra01411------Female villager with basket dying
+gra01414------Female villager standing carrying a basket
+gra01415------Female villager with basket decaying
+gra01418------Female villager with basket moving
+gra01421------Female villager hunting with bow
+gra01424------Female villager with bow dying
+gra01427------Female villager with bow standing
+gra01428------Female villager with bow decaying
+gra01431------Female villager with bow moving
+gra01434------Female villager woodcutter chopping
+gra01437------Female villager woodcutter dying
+gra01440------Female villager woodcutter standing
+gra01441------Female villager woodcutter decaying
+gra01444------Female villager woodcutter moving
+gra01450------Female villager miner dying
+gra01453------Female villager miner standing
+gra01454------Female villager miner decaying
+gra01457------Female villager miner moving
+gra01467------Female villager decaying not sure if miner or builder or what?
+gra01473------Male villager fighting
+gra01476------Male villager dying
+gra01479------Male villager standing
+gra01481------Male villager decaying
+gra01484------Male villager moving
+gra01490------Male villager builder dying
+gra01493------Male villager builder standing
+gra01495------Male villager builder decaying
+gra01496------Male villager builder kneeling
+gra01499------Male villager builder moving
+gra01506------Male villager farmer dying
+gra01509------Male villager farmer standing
+gra01511------Male villager farmer decaying
+gra01512------Male villager farmer farming
+gra01515------Male villager farmer moving
+gra01518------Male villager hunter using bow
+gra01519------Male villager hunter carrying meat
+gra01522------Male villager hunter dying
+gra01525------Male villager hunter standing
+gra01527------Male villager hunter decaying
+gra01528------Male villager hunter kneeling slaughtering meat
+gra01531------Male villager hunter moving
+gra01535------Male villager woodcutter chopping
+gra01536------Male villager woodcutter carrying wood
+gra01539------Male villager woodcutter dying
+gra01542------Male villager woodcutter standing
+gra01544------Male villager woodcutter decaying
+gra01545------Male villager woodcutter chopping - appears identical to gra01535
+gra01548------Male villager woodcutter moving
+gra01552------Male villager miner carrying stone
+gra01555------Male villager miner dying
+gra01558------Male villager miner standing
+gra01559------Male villager miner decaying
+gra01560------Male villager miner mining 
+gra01563------Male villager miner moving
+gra01592------Woad raider fighting
+gra01595------Woad raider dying
+gra01598------Woad raider standing
+gra01599------Woad raider decaying
+gra01602------Woad raider moving
+gra01629------Wolf attacking
+gra01632------Wolf dying
+gra01635------Wolf standing
+gra01636------Wolf moving
+gra01637------Wolf decaying
+gra01640------Wolf running
+gra01644------Skirmisher fighting
+gra01647------Skirmisher dying
+gra01650------Skirmisher standing
+gra01651------Skirmisher decaying
+gra01654------Skirmisher moving
+gra01659------Sea Rock
+gra01663------Sea Rock
+gra01665------Gaia Crack
+gra01681------Capped ram
+gra01683------Animation for Siege/Capped Ram's Front
+gra01686------Capped ram dying
+gra01689------Capped ram
+gra01690------Capped ram decaying
+gra01691------Capped ram
+gra01693------Capped ram wheel animation
+gra01735------Hero Joan the maid fighting
+gra01738------Hero Joan the maid dying
+gra01741------Hero Joan the maid standing
+gra01742------Hero Joan the maid decaying
+gra01745------Hero Joan the maid moving
+gra01761------King
+gra01764------King dying
+gra01767------King standing
+gra01768------King decaying
+gra01771------King moving
+gra01780------Ship’s hull unknown - beta
+gra01784------Ship’s hull unknown - appears identical to gra01780
+gra01808------Ship possibly ROR unit - appears identical to gra00653 & gra00657
+gra01812------Ship’s hull - unidentified
+gra01828------Palisade Wall
+gra01834------Ship’s wreckage sinking - appears identical to gra00495 & gra00692
+gra01838------Ship from ROR - appears identical to gra00499
+gra01869------Stone Icon?
+gra01871------Bitmap with Church 4 on it
+gra01874------Female villager builder building
+gra01875------Female villager berry gatherer moving
+gra01876------Female villager berry gatherer kneeling
+gra01877------Female villager hunter moving with meat
+gra01878------Female hunter possibly cutting something
+gra01879------Female villager miner carrying stone
+gra01880------Female villager miner mining
+gra01883------Female villager woodcutter carrying wood
+gra01884------Female villager woodcutter chopping
+gra01885------Water shallows tiles - appears to be ROR - not used n AOK
+gra01886------Flag pole from beta version of West European Imperial market
+gra01900------Trade cart loaded - grey version - not used
+gra01905------Fish Marlin
+gra01906------Fish Marlin
+gra01910------Fish Dorado
+gra01911------Fish Salmon
+gra01912------Fish Perch
+gra01913------Fish snapper
+gra01918------Shadow for North European gate closed / position - gra01926
+gra01919------Shadow for Asian gate closed / position - gra01927
+gra01920------Shadow for Arabic gate closed / position - gra01928
+gra01921------Shadow for West European gate closed / position - gra01929
+gra01926------North European Gate closed / position
+gra01927------Asian Gate closed / position
+gra01928------Arabic Gate closed / position
+gra01929------West European Gate closed / position
+gra01930------Shadow for North European fortified gate closed / position - gra01938
+gra01931------Shadow for Asian fortified gate closed / position - gra01939
+gra01932------Shadow for Arabic fortified gate closed / position - gra01940
+gra01933------Shadow for West European fortified gate closed / position - gra01941
+gra01938------North European Fortified Gate closed / position
+gra01939------Asian Fortified Gate closed / position
+gra01940------Arabic Fortified Gate closed / position
+gra01941------West Europeans Fortified Gate closed / position
+gra02079------Scout cavalry fighting
+gra02082------Scout cavalry dying
+gra02085------Scout cavalry standing
+gra02086------Scout cavalry decaying
+gra02089------Scout cavalry moving 
+gra02090------Shadows for North European stone wall - gra02098
+gra02091------Shadows for Asian stone wall - gra02099
+gra02092------Shadows for Arabic stone wall - gra02100
+gra02093------Shadows for West European stone wall - gra02101
+gra02098------North European Stone Wall
+gra02099------Asian Stone Wall
+gra02100------Arabic Stone Wall
+gra02101------West European Stone Wall
+gra02102------Shadows for North European fortified wall - gra02110
+gra02103------Shadows for Asian fortified wall - gra02111
+gra02104------Shadows for Arabic fortified wall - gra02112
+gra02105------Shadows for West European fortified wall - gra02113
+gra02110------North European Fortified Wall
+gra02111------Asian Fortified Wall
+gra02112------Arabic Fortified Wall
+gra02113------West European Fortified Wall
+gra02116------Ship wreckage sinking - appears identical to gra00495, 693 & 1834
+gra02117------Male villager miner carrying gold
+gra02118------Female villager miner carrying gold
+gra02223------Dark Age houses
+gra02232------North European Feudal Age houses
+gra02233------Asian Feudal Age houses
+gra02234------Arabic Feudal Age houses
+gra02235------West European Feudal Age houses
+gra02244------North European Castle Age & Imperial Age houses 
+gra02245------Asian Castle Age & Imperial Age houses
+gra02246------Arabic Castle Age & Imperial Age houses
+gra02247------West European Castle Age & Imperial Age houses
+gra02261------Green Snow Topped Mountain Number 1
+gra02262------Green Snow Topped Mountain Number 2
+gra02264------Swordsman fighting?
+gra02275------North European Market Feudal Age
+gra02276------Asian Market Feudal Age
+gra02277------Arabic Market Feudal Age
+gra02278------West European Market Feudal Age
+gra02279------Packed Trebuchet moving
+gra02293------Bamboo Trees
+gra02295------Bamboo chopped down stumps
+gra02296------Multiple shadows from deciduous forest
+gra02300------Multiple shadows from palm forest
+gra02304------Multiple shadows from pine forest
+gra02308------Multiple shadows from forest
+gra02347------Shadow for North European gate raised / position - gra02355
+gra02348------Shadow for Asian gate raised / position - gra02356
+gra02349------Shadow for Arabic gate raised / position - gra02357
+gra02350------Shadow for West European gate raised / position - gra02358
+gra02355------North European Gate raised / position
+gra02356------Asian Gate raised / position
+gra02357------Arabic Gate raised / position
+gra02358------West European Gate raised / position
+gra02359------Shadow for North European fortified gate raised / position - gra02367
+gra02360------Shadow for Asian fortified gate raised / position - gra02368
+gra02361------Shadow for Arabic fortified gate raised / position - gra02369
+gra02362------Shadow for West European fortified gate raised / position - gra02370
+gra02367------North European Fortified Gate raised / position
+gra02368------Asian Fortified Gate raised / position
+gra02369------Arabic Fortified Gate raised / position
+gra02370------West European Fortified Gate raised / position
+gra02383------Shadow for North European stone gate tower - gra02391
+gra02384------Shadow for Asian stone gate tower - gra02392
+gra02385------Shadow for Arabic stone gate tower - gra02393
+gra02386------Shadow for West European stone gate tower - gra02394
+gra02387------Flag for North European stone gate tower - gra02391?
+gra02388------Flag for Asian stone gate tower - gra02392?
+gra02389------Flag for Arabic stone gate tower - gra02393?
+gra02390------Flag for West European stone gate tower - gra02394?
+gra02391------North European Stone gate tower
+gra02392------Asian Stone gate tower
+gra02393------Arabic Stone gate tower
+gra02394------West European Stone gate tower
+gra02395------Shadow for North European fortified gate tower - gra02401
+gra02396------Shadow for Asian fortified gate tower - gra02402
+gra02397------Shadow for Arabic fortified gate tower - gra02403
+gra02398------Shadow for West European fortified gate tower - gra02404
+gra02399------Flag for North European fortified gate tower - gra02401
+gra02400------Flag for Asian fortified gate tower - gra02402
+gra02401------Flag for Arabic Fortified gate tower - gra02403
+gra02402------Flag for West European Fortified gate tower - gra02404
+gra02403------North European Fortified gate tower
+gra02404------Asian Fortified gate tower
+gra02405------Arabic Fortified gate tower
+gra02406------West European Fortified gate tower
+gra02419------Shadow for North European gate closed \ position - gra02427
+gra02420------Shadow for Asian gate closed \ position - gra02428
+gra02421------Shadow for Arabic gate closed \ position - gra02429
+gra02422------Shadow for West European gate closed \ posion - gra02430
+gra02427------North European Gate closed \ position
+gra02428------Asian Gate closed \ position
+gra02429------Arabic Gate closed \ position
+gra02430------West European Gate closed \ position
+gra02431------Shadow for North European fortified gate closed \ position - gra02439
+gra02432------Shadow for Asian fortified gate closed \ position - gra02440
+gra02433------Shadow for Arabic fortified gate closed \ position - gra02441
+gra02434------Shadow for West European fortified gate closed \ position - gra02442
+gra02439------North European Fortified Gate closed \ position
+gra02440------Asian Fortified Gate closed \ position
+gra02441------Arabic Fortified Gate closed \ position
+gra02442------West European Fortified Gate closed \ position
+gra02455------Shadow for North European gate raised \ position - gra02463
+gra02456------Shadow for Asian gate raised \ position - gra02464
+gra02457------Shadow for Arabic gate raised \ position - gra02465
+gra02458------Shadow for West European gate raised \ position - gra02466
+gra02463------North European Gate raised \ position
+gra02464------Asian Gate raised \ position
+gra02465------Arabic Gate raised \ position
+gra02466------West European Gate raised \ position
+gra02467------Shadow for North European fortified gate raised \ position - gra02475
+gra02468------Shadow for Asian fortified gate raised \ position - gra02476
+gra02469------Shadow for Arabic fortified gate raised \ position - gra02477
+gra02470------Shadow for West European fortified gate raised \ position - gra02478
+gra02475------North European Fortified Gate raised \ position
+gra02476------Asian Fortified Gate raised \ position
+gra02477------Arabic Fortified Gate raised \ position
+gra02478------West European Fortified Gate raised \ position
+gra02515------Shadow from a beta mill include rope stays?
+gra02517------Shadow from a beta mill - appears identical to gra02515
+gra02518------Shadow from a beta mill - appears identical to gra02515 & gra02517
+gra02519------Gaia Flowers Num. 1
+gra02520------Gaia Flowers Num. 2
+gra02521------Gaia Flowers Num. 3
+gra02522------Gaia Flowers Num. 4
+gra02523------Path Num. 4
+gra02524------Path Num. 1
+gra02525------Path Num. 2
+gra02526------Path Num. 3
+gra02530------Gaia Ruined Building
+gra02533------Nice Green Tree
+gra02534------Shadow for North European keep - gra02538
+gra02535------Shadow for Asian keep - gra02539
+gra02536------Shadow for Arabic keep - gra02540
+gra02537------Shadow for West European keep - gra02541
+gra02538------North European Keep
+gra02539------Asian Keep 
+gra02540------Arabic Keep 
+gra02541------West European Keep 
+gra02542------Shadow for North European bombard tower - gra02546
+gra02543------Shadow for Asian bombard tower - gra02547
+gra02544------Shadow for Arabic bombard tower - gra02548
+gra02545------Shadow for West European bombard tower - gra02549
+gra02546------North European bombard tower
+gra02547------Asian bombard tower 
+gra02548------Arabic bombard tower
+gra02549------West European bombard tower
+gra02554------Unknown shadows?
+gra02555------Boar attacking
+gra02556------Boar dying
+gra02557------Boar standing
+gra02558------Boar decaying
+gra02559------Boar moving
+gra02560------Berry bush
+gra02561------Gold objects
+gra02568------Female village carrying basket dying
+gra02571------Female villager with basket standing
+gra02572------Female villager with basket decaying
+gra02573------Female villager kneeling picking berries
+gra02576------Female villager moving with empty basket
+gra02583------Male villager carrying basket dying
+gra02586------Male villager with basket standing
+gra02588------Male villager with basket decaying
+gra02589------Male villager kneeling picking berries
+gra02592------Male villager moving with empty basket
+gra02593------Unidentified animation - spear maybe?
+gra02596------Unidentified object?
+gra02606------Unidentified animation - green coloured boulder maybe?
+gra02652------North European Watch Tower
+gra02653------Asian Watch Tower
+gra02654------Arabic Watch Tower
+gra02655------West European Watch Tower
+gra02656------Shadow for North European guard tower - gra02664
+gra02657------Shadow for Asian guard tower - gra02665
+gra02658------Shadow for Arabic guard tower - gra02666
+gra02659------Shadow for West European guard tower - gra02667
+gra02660------Flag
+gra02662------Flag - appears identical to gra02660
+gra02663------Flag - appears identical to gra02660 & gra02662
+gra02664------North European Guard Tower
+gra02665------Asian Guard Tower
+gra02666------Arabic Guard Tower
+gra02667------West European Guard Tower
+gra02682------Gaia Torch
+gra02683------Dark Age Barracks
+gra02698------Arbalest attacking
+gra02701------Arbalest dying
+gra02704------Arbalest standing
+gra02705------Arbalest decaying
+gra02708------Arbalest moving
+gra02711------ROR Archer attacking
+gra02714------ROR Archer dying
+gra02717------ROR Archer standing
+gra02718------ROR Archer decaying
+gra02721------ROR Archer moving
+gra02753------Ship sinking wreckage
+gra02762------Heavy Camel attacking
+gra02765------Heavy camel dying
+gra02768------Heavy camel standing
+gra02769------Heavy camel decaying
+gra02772------Heavy camel standing
+gra02778------Ship sinking wreckage
+gra02787------ROR Phalanx attacking
+gra02790------ROR Phalanx dying
+gra02793------Beta version Pikeman?
+gra02794------ROR Phalanx decaying
+gra02797------ROR Phalanx moving
+gra02800------Two handed swordsman attacking
+gra02803------Two handed swordsman dying
+gra02806------Two handed swordsman standing
+gra02807------Two handed swordsman decaying
+gra02810------Two handed swordsman moving
+gra02813------Heavy scorpion attacking
+gra02816------Heavy scorpion dying
+gra02819------Heavy scorpion standing
+gra02820------Heavy scorpion decaying
+gra02821------Heavy scorpion moving
+gra02823------Heavy scorpion wheels
+gra02826------Pikeman attacking
+gra02829------Pikeman dying
+gra02832------Pikeman standing
+gra02833------Pikeman decaying
+gra02836------Pikeman moving
+gra02998------Light cavalry attacking
+gra03001------Light cavalry dying
+gra03004------Light cavalry standing
+gra03005------Light cavalry decaying
+gra03008------Light cavalry moving
+gra03017------Onager attacking
+gra03020------Onager dying
+gra03023------Onager standing
+gra03024------Onager moving
+gra03026------Onager wheels
+gra03027------Siege ram attacking
+gra03029------Siege Ram ram section attacking
+gra03032------Siege ram dying
+gra03035------Siege ram standing
+gra03036------Siege ram decaying
+gra03037------Siege ram moving
+gra03039------Siege ram wheels
+gra03072------Paladin attacking
+gra03075------Paladin dying
+gra03078------Paladin standing
+gra03079------Paladin decaying
+gra03082------Paladin moving
+gra03085------Champion attacking
+gra03088------Champion dying
+gra03091------Champion standing
+gra03092------Champion decaying
+gra03095------Champion moving
+gra03404------Waypoint Flag
+gra03405------Red four arrows command here mark
+gra03406------Smoke or Water Splash
+gra03465------North European Towncenter roof left side Imperial Age
+gra03466------Asian Towncenter roof left side Imperial Age
+gra03467------Arabic Towncenter roof left side Imperial Age
+gra03468------West European Towncenter roof left side Imperial Age
+gra03469------North European Town center left side roof supports Imperial Age
+gra03470------Asian town center left side roof supports Imperial Age
+gra03471------Arabic town center left side roof supports Imperial Age
+gra03472------West European town center left side roof supports Imperial Age
+gra03473------North European Town center left side roof supports Imperial Age
+gra03474------Asian town center left side roof supports Imperial Age
+gra03475------Arabic town center left side roof supports Imperial Age
+gra03476------West European town center left side roof supports Imperial Age
+gra03479------Male Villager forager attacking
+gra03482------Dark Age Mill donkey Animation
+gra03483------Dark Age Mill without Donkey Animation
+gra03492------North European Mining Camp
+gra03493------Asian Mining Camp
+gra03494------Arabic Mining Camp
+gra03495------West European Mining Camp
+gra03504------North European lumber camp
+gra03505------Asian lumber camp
+gra03506------Arabic lumber camp
+gra03507------West European lumber camp
+gra03509------Shadow for Goths wonder - gra03535
+gra03510------Shadow for Vikings wonder - gra03536
+gra03511------Shadow for Japanese wonder - gra03537
+gra03512------Shadow for Celts wonder - gra03538
+gra03513------Shadow for Mongolian wonder - gra03539
+gra03514------Shadow for Persian wonder - gra03540
+gra03515------Shadow for Frank wonder - gra03541
+gra03516------Shadow for Saracens wonder - gra03542
+gra03517------Shadow for Turkish wonder - gra03543
+gra03518------Shadow for Teutons wonder - gra03544
+gra03519------Shadow for Byzantines wonder - gra03545
+gra03534------Britons Wonder
+gra03535------Goths Wonder
+gra03536------Vikings Wonder
+gra03537------Japanese Wonder
+gra03538------Celts Wonder
+gra03539------Mongols Wonder
+gra03540------Persians Wonder
+gra03541------Franks Wonder
+gra03542------Saracens Wonder
+gra03543------Turks Wonder
+gra03544------Teutons Wonder
+gra03545------Byzantines Wonder
+gra03546------Chinese Wonder
+gra03547------Arrow or spear?
+gra03548------Water splash
+gra03549------Fish Tuna
+gra03553------Siege Onager firing
+gra03556------Siege Onager dying
+gra03559------Siege Onager standing
+gra03560------Siege Onager decaying
+gra03561------Siege Onager moving
+gra03563------Siege Onager Wheels
+gra03565------Villager Female fisher moving carrying fish
+gra03567------Villager female fisher dying
+gra03568------Villager female fisher standing
+gra03569------Villager female fisher casting net
+gra03570------Villager female fisher moving with net
+gra03573------Villager male fisher dying
+gra03574------Villager male standing with net or fish
+gra03575------Villager male fisher casting net
+gra03576------Villager male moving with net or fish
+gra03577------Wild boar running
+gra03580------Flag sideways on
+gra03583------Flag as above, pointing diagonal down right
+gra03586------Flag – fleur-de-lise ?
+gra03589------Banner between two poles
+gra03592------Banner between two poles – similar to gra03589 
+gra03593------Fish Trap
+gra03594------Dark Age town center roof, left side
+gra03595------Dark Age town center roof support, left side front
+gra03596------Dark Age town center roof supports, left side
+gra03597------North European Feudal Age town center left side roof 
+gra03598------Asian Feudal Age town center left side roof
+gra03599------Arabic Feudal Age town center left side roof
+gra03600------West European Feudal Age town center left side roof
+gra03601------North European Feudal Age town center left side roof supports
+gra03602------Asian Feudal Age town center left side roof supports
+gra03603------Arabic Feudal Age town center left side roof supports
+gra03604------West European Feudal Age town center left side roof supports
+gra03605------North European Feudal Age town center left side roof support
+gra03606------Asian Feudal Age town center left side roof support
+gra03607------Arabic Feudal Age town center left side roof support
+gra03608------West European Feudal Age town center left side roof support
+gra03609------North European Castle Age town center left side roof
+gra03610------Asian Castle Age town center left side roof
+gra03611------Arabic Castle Age town center left side roof
+gra03612------West European Castle Age town center left side roof
+gra03613------North European Castle Age town center left side roof supports
+gra03614------Asian Castle Age town center left side roof supports
+gra03615------Arabic Castle Age town center left side roof supports
+gra03616------West European Castle Age town center left side roof supports
+gra03617------North European Castle Age town center left side roof support
+gra03618------Asian Castle Age town center left side roof support
+gra03619------Arabic Castle Age town center left side roof support
+gra03620------West European Castle Age town center left side roof support
+gra03626------Sheep dying
+gra03629------Sheep standing
+gra03631------Sheep decaying
+gra03634------Sheep moving
+gra03635------Cathedral
+gra03677------Female Villager shepherd killing sheep
+gra03678------Female Villager shepherd dying
+gra03679------Female Villager shepherd standing
+gra03681------Female Villager shepherd moving
+gra03682------Male Villager shepherd killing sheep
+gra03683------Male Villager shepherd dying
+gra03684------Male Villager shepherd standing
+gra03686------Male Villager shepherd moving
+gra03688------Bridge right end / slope
+gra03690------Bridge middle / slope
+gra03692------Bridge left end / slope
+gra03694------Bridge left end \ slope
+gra03696------Bridge middle \ slope
+gra03698------Bridge right end \ slope
+gra03702------Shadow for North European gate building sequence / position - gra03706
+gra03703------Shadow for Asian gate building sequence / position - gra03707
+gra03704------Shadow for Arabic gate building sequence / position - gra03708
+gra03705------Shadow for West European gate building sequence / position - gra03709
+gra03706------North European gate building sequence / position
+gra03707------Asian gate building sequence / position
+gra03708------Arabic gate building sequence / position
+gra03709------West European gate building sequence / position
+gra03710------Shadow for North European fortified gate building sequence / position - gra03714
+gra03711------Shadow for Asian fortified gate building sequence / position - gra03715
+gra03712------Shadow for Arabic fortified gate building sequence / position - gra03716
+gra03713------Shadow for West European fortified gate building sequence / position - gra03717
+gra03714------North European Fortified gate building sequence / position
+gra03715------Asian Fortified gate building sequence / position
+gra03716------Arabic Fortified gate building sequence / position
+gra03717------West European Fortified gate building sequence / position
+gra03718------Shadow for North European gate building sequence \ position - gra03722
+gra03719------Shadow for Asian gate building sequence \ position - gra03723
+gra03720------Shadow for Arabic gate building sequence \ position - gra03724
+gra03721------Shadow for West European gate building sequence \ position - gra03725
+gra03722------North European gate building sequence \ position
+gra03723------Asian gate building sequence \ position
+gra03724------Arabic gate building sequence \ position
+gra03725------West European gate building sequence \ position
+gra03726------Shadow for North European fortified gate building sequence \ position - gra03730
+gra03727------Shadow for Asian fortified gate building sequence \ position - gra03731
+gra03728------Shadow for Arabic fortified gate building sequence \ position - gra03732
+gra03729------Shadow for West European fortified gate building sequence \ position - gra03733
+gra03730------North European Fortified gate building sequence \ position
+gra03731------Asian Fortified gate building sequence \ position
+gra03732------Arabic Fortified gate building sequence \ position
+gra03733------West European Fortified gate building sequence \ position 
+gra03734------Large Pavilion
+gra03735------Small Pavilion door to right, armour outside
+gra03736------Small Pavilion door to left
+gra03737------Gaia Rocks
+gra03738------Shadows for North European wall building sequence - gra03742 
+gra03739------Shadows for Asian wall building sequence - gra03743
+gra03740------Shadows for Arabic wall building sequence - gra03744
+gra03741------Shadows for West European wall building sequence - gra03745
+gra03742------North European wall building sequence
+gra03743------Asian wall building sequence
+gra03744------Arabic wall building sequence
+gra03745------West European wall building sequence
+gra03746------Shadows for North European Fortified wall building sequence - gra03750
+gra03747------Shadows for Asian Fortified wall building sequence - gra03751
+gra03748------Shadows for Arabic Fortified wall building sequence - gra03752
+gra03749------Shadows for West European Fortified wall building sequence - gra03753
+gra03750------North European Fortified wall building sequence
+gra03751------Asian Fortified wall building sequence
+gra03752------Arabic Fortified wall building sequence
+gra03753------West European Fortified wall building sequence
+gra03754------Unknown animation sequence?
+gra03757------Heavy Cavalry Archer firing
+gra03760------Heavy Cavalry Archer dying
+gra03763------Heavy Cavalry Archer standing
+gra03764------Heavy Cavalry Archer decaying
+gra03767------Heavy Cavalry Archer moving
+gra03770------Hero Frankish Paladin type attacking
+gra03773------Hero Frankish Paladin type dying
+gra03776------Hero Frankish Paladin type standing
+gra03777------Hero Frankish Paladin type decaying
+gra03780------Hero Frankish Paladin type moving
+gra03783------Hero Joan of Arc Cavalry fighting
+gra03786------Hero Joan of Arc Cavalry dying
+gra03789------Hero Joan of Arc Cavalry standing
+gra03790------Hero Joan of Arc Cavalry decaying
+gra03793------Hero Joan of Arc Cavalry moving
+gra03794------North European Imperial Age Market
+gra03795------Asian Imperial Age Market
+gra03796------Arabic Imperial Age Market
+gra03797------West European Imperial Age Market
+gra03798------Unknown animation sequence - Some kind of burning missile?
+gra03799------Arrow
+gra03800------Shadow for arrow?
+gra03801------Throwing Axe
+gra03802------Shadow for throwing axe?
+gra03803------Catapult Boulder
+gra03804------Shadow for gra03803
+gra03807------Shadow - appears identical to gra03803
+gra03811------Large burning arrow
+gra03812------Arrow or rocket?
+gra03813------Shadow for gra03811 & gra03812
+gra03814------Burning catapult boulder
+gra03815------Smoke Ball
+gra03816------Shadow for gra03814 & gra03815
+gra03818------Unknown shadow dot?
+gra03819------Burning spear
+gra03820------Spear
+gra03821------Spear
+gra03824------Monk carrying relic disappearing?
+gra03827------Monk carrying relic
+gra03831------Monk carrying relic moving
+gra03832------North European University Castle Age
+gra03833------Asian University Castle Age
+gra03834------Arabic University Castle Age
+gra03835------West European University Castle Age
+gra03836------North European University Imperial Age
+gra03837------Asian University Imperial Age
+gra03838------Arabic University Imperial Age
+gra03839------West European University Imperial Age
+gra03840------Female Villager farmer sowing seed
+gra03841------Female Villager shepherd herding sheep
+gra03842------Male Villager farmer sowing seed
+gra03843------Male Villager shepherd herding sheep
+gra03846------Unknown Hero knight fighting?
+gra03849------Unknown Hero knight dying?
+gra03852------Unknown Hero knight standing?
+gra03853------Unknown Hero knight decaying?
+gra03856------Unknown Hero knight moving?
+gra03885------Unknown Hero knight fighting - appears identical to gra03846
+gra03888------Unknown Hero knight dying - appears identical to gra03849
+gra03891------Unknown Hero knight standing - appears identical to gra03852
+gra03892------Unknown Hero knight decaying - appears identical to gra03853
+gra03895------Unknown Hero knight moving - appears identical to gra03856
+gra03924------Unknown Hero knight attacking
+gra03927------Unknown Hero knight dying
+gra03930------Unknown Hero knight standing
+gra03931------Unknown Hero knight decaying
+gra03934------Unknown Hero knight moving
+gra03963------Unknown Hero knight fighting - appears identical to gra03846
+gra03966------Unknown Hero knight dying - appears identical to gra03849
+gra03969------Unknown Hero knight standing - appears identical to gra03852
+gra03970------Unknown Hero knight decaying - appears identical to gra03853
+gra03973------Unknown Hero knight moving - appears identical to gra03856
+gra03974------Smoke puff?
+gra03975------Splash?
+gra03976------Unknown 135 frame sequence
+gra03977------Smoke or splash?
+gra03978------Decaying foot figure?
+gra03979------Decaying foot figure two tone trousers bare top?
+gra03980------Male Villager fisher moving with fish
+gra03982------Mosque
+gra03983------Fireball
+gra03984------Fireball
+gra03985------Wrecked fish trap
+gra03986------Smoke puff or splash?
+gra03987------Larger smoke puff
+gra03991------Shadow for North European Gate shut -- position - gra03999
+gra03992------Shadow for Asian Gate shut -- position - gra04000
+gra03993------Shadow for Arabic Gate shut -- position - gra04001
+gra03994------Shadow for West European Gate shut -- position - gra04002
+gra03999------North European Gate shut -- position
+gra04000------Asian Gate shut -- position
+gra04001------Arabic Gate shut -- position
+gra04002------West European Gate shut -- position
+gra04003------Shadow for North European Fortified Gate shut -- position - gra04011
+gra04004------Shadow for Asian Fortified gate shut -- position - gra04012
+gra04005------Shadow for Arabic Fortified gate shut -- position - gra04013
+gra04006------Shadow for West European Fortified gate shut -- position - gra04013
+gra04011------North European Fortified Gate shut -- position
+gra04012------Asian Fortified gate shut -- position
+gra04013------Arabic Fortified gate shut -- position
+gra04014------West European Fortified gate shut -- position
+gra04015------Shadow for 4023
+gra04016------Shadow for 4024
+gra04017------Shadow for 4025
+gra04018------Shadow for 4026
+gra04023------North European Gate open -- position
+gra04024------Asian Gate open  -- position
+gra04025------Arabic Gate open -- position
+gra04026------West European Gate open -- position
+gra04027------Shadow for North European Fortified Gate open -- position - gra04035
+gra04028------Shadow for Asian Fortified Gate open -- position - gra04036
+gra04029------Shadow for Arabic Fortified Gate open -- position - gra04037
+gra04030------Shadow for West European Fortified Gate open -- position - gra04038
+gra04035------North European Fortified Gate open -- position
+gra04036------Asian Fortified Gate open -- position
+gra04037------Arabic Fortified Gate open -- position
+gra04038------West European Fortified Gate open -- position
+gra04063------Shadow for North European gate building sequence -- position - gra04067
+gra04064------Shadow for Asian gate building sequence -- position - gra04068
+gra04065------Shadow for Arabic gate building sequence -- position - gra04069
+gra04066------Shadow for West European gate building sequence -- position - gra04070
+gra04067------North European gate building sequence -- position
+gra04068------Asian gate building sequence -- position
+gra04069------Arabic gate building sequence -- position
+gra04070------West European gate building sequence -- position
+gra04071------Shadow for North European fortified gate building sequence -- position - gra04075
+gra04072------Shadow for Asian fortified gate building sequence -- position - gra04076
+gra04073------Shadow for Arabic fortified gate building sequence -- position - gra04077
+gra04074------Shadow for West European fortified gate building sequence -- position - gra04078
+gra04075------North European fortified gate building sequence -- position
+gra04076------Asian fortified gate building sequence -- position
+gra04077------Arabic fortified gate building sequence -- position
+gra04078------West European fortified gate building sequence -- position
+gra04079------Shadow for North European Gate shut | position - gra04087
+gra04080------Shadow for Asian Gate shut | position - gra04088
+gra04081------Shadow for Arabic Gate shut | position - gra04089
+gra04082------Shadow for West European Gate shut | position - gra04090
+gra04087------North European Gate shut | position
+gra04088------Asian Gate shut | position
+gra04089------Arabic Gate shut | position
+gra04090------West European Gate shut | position
+gra04091------Shadow for North European Fortified Gate shut | position - gra04099
+gra04092------Shadow for Asian Fortified Gate shut | position - gra04100
+gra04093------Shadow for Arabic Fortified Gate shut | position - gra04101
+gra04094------Shadow for West European Fortified Gate shut | position - gra04102
+gra04099------North European Fortified Gate shut | position
+gra04100------Asian Fortified Gate shut | position
+gra04101------Arabic Fortified Gate shut | position
+gra04102------West European Fortified Gate shut | position
+gra04103------Shadow for North European Gate open | position - gra04111
+gra04104------Shadow for Asian Gate open | position - gra04112
+gra04105------Shadow for Arabic Gate open | position - gra04113
+gra04106------Shadow for West European Gate open | position - gra04114
+gra04111------North European Gate open | position
+gra04112------Asian Gate open | position
+gra04113------Arabic Gate open | position
+gra04114------West European Gate open | position
+gra04115------Shadow for North European Fortified Gate open | position - gra04123
+gra04116------Shadow for Asian Fortified Gate open | position - gra04124
+gra04117------Shadow for Arabic Fortified Gate open | position - gra04125
+gra04118------Shadow for West European Fortified Gate open | position - gra04126
+gra04123------North European Fortified Gate open | position
+gra04124------Asian Fortified Gate open | position
+gra04125------Arabic Fortified Gate open | position
+gra04126------West European Fortified Gate open | position
+gra04151------Shadow for North European gate building sequence | position - gra04155
+gra04152------Shadow for Asian gate building sequence | position - gra04156
+gra04153------Shadow for Arabic gate building sequence | position - gra04157
+gra04154------Shadow for West European gate building sequence | position - gra04158
+gra04155------North European gate building sequence | position
+gra04156------Asian gate building sequence | position
+gra04157------Arabic gate building sequence | position
+gra04158------West European gate building sequence | position
+gra04159------Shadow for North European fortified gate building sequence | position - gra04163
+gra04160------Shadow for Asian fortified gate building sequence | position - gra04164
+gra04161------Shadow for Arabic fortified gate building sequence | position - gra04165
+gra04162------Shadow for West European fortified gate building sequence | position - gra04166
+gra04163------North European fortified gate building sequence | position
+gra04164------Asian fortified gate building sequence | position
+gra04165------Arabic fortified gate building sequence | position
+gra04166------West European fortified gate building sequence | position
+gra04168------Onager decaying
+gra04169------North European Damaged Stone Wall
+gra04170------Asian Damaged Stone Wall
+gra04171------Arabic Damaged Stone Wall
+gra04172------West European Damaged Stone Wall
+gra04173------North European Fortified Damaged Wall
+gra04174------Asian Fortified Damaged Wall
+gra04175------Arabic Fortified Damaged Wall
+gra04176------West European Fortified Damaged Wall
+gra04177------North European heavily Damaged Stone Wall
+gra04178------Asian heavily Damaged Stone Wall 
+gra04179------Arabic heavily Damaged Stone Wall
+gra04180------West European heavily Damaged Stone Wall
+gra04181------North European heavily damaged Fortified Wall 
+gra04182------Asian heavily damaged Fortified Wall
+gra04183------Arabic heavily damaged Fortified Wall
+gra04184------West European heavily damaged Fortified Wall
+gra04185------North European severely Damaged Stone Wall
+gra04186------Asian severely Damaged Stone Wall 
+gra04187------Arabic severely Damaged Stone Wall
+gra04188------West European severely Damaged Stone Wall
+gra04189------North European Fortified severely Damaged Wall
+gra04190------Asian Fortified severely Damaged Wall
+gra04191------Arabic Fortified severely Damaged Wall
+gra04192------West European Fortified severely Damaged Wall
+gra04193------Single Fire Ball
+gra04194------Fire Ball sequence
+gra04195------Ship's Sail sequence with a lion head?
+gra04196------Ship's Sail sequence with a lion head?
+gra04197------Ship's Sail sequence with a lion head?
+gra04198------Ship's Sail sequence with a lion head?
+gra04199------Galleon ships hull
+gra04224------North European Ships sails sequence
+gra04225------Asian Ships sail sequence
+gra04226------Arabic Ships sail sequence
+gra04227------West European Ships sail sequence
+gra04228------North European Small ships sail sequence
+gra04229------Asian Small ships sail sequence
+gra04230------Arabic Small ships sail sequence
+gra04231------West European Small ships sail sequence
+gra04232------North European back of small sail sequence - combine with gra04228?
+gra04233------Asian back of small sail sequence - combine with gra04229?
+gra04234------Arabic back of small sail sequence - combine with gra04230?
+gra04235------West European back of small sail sequence - combine with gra04231?
+gra04236------North European small sail sequence
+gra04237------Asian small sail sequence
+gra04238------Arabic small sail sequence
+gra04239------West European small sail sequence
+gra04240------North European small triangular sail sequence
+gra04241------Asian small triangular sail sequence
+gra04242------Arabic small triangular sail sequence
+gra04243------West European small triangular sail sequence
+gra04244------Cannon galleon hull
+gra04245------North European sail sequences
+gra04246------Asian sail sequences
+gra04247------Arabic sail sequences
+gra04248------West European sail sequences
+gra04253------Heavy demolition ship hull
+gra04254------Trade cog hull
+gra04255------Fire ships hull
+gra04256------Unknown Ships hull
+gra04267------Dome of the Rock
+gra04268------Fast fire ship hull
+gra04273------Unknown hero type - appears identical to gra03846
+gra04274------Unknown hero dying - appears identical to gra03849
+gra04275------Unknown hero standing - appears identical to gra03852
+gra04276------Unknown hero decaying - appears identical to gra03853
+gra04277------Unknown hero moving - appears identical to gra03856
+gra04278------Relic or piece of true cross - not sure which (or if used)
+gra04279------Relic or piece of true cross - appears identical to gra04278
+gra04280------Small Pyramid
+gra04281------Unknown hero fighting - same as gra04273 etc
+gra04282------Unknown hero dying - same as gra04274 etc
+gra04283------Unknown hero standing - same as gra04275 etc
+gra04284------Unknown hero decaying - same as gra04276 etc
+gra04285------Unknown hero moving - same as gra04277 etc
+gra04296------Asian ships sail sequence
+gra04297------Arabic ships sail sequence
+gra04298------West European ships sail sequence
+gra04299------Demolition ship's hull
+gra04300------Galley's hull
+gra04301------North European ships main sail sequence
+gra04302------Asian ships main sail sail sequence
+gra04303------Arabic ships main sail sequence
+gra04304------West European ships main sail sequence
+gra04305------North European ships small triangular sail.
+gra04306------Asian ships small triangular sail
+gra04307------Arabic ships small triangular sail.
+gra04308------West European ships small triangular sail
+gra04309------North European ships sail
+gra04310------Asian ships sail
+gra04311------Arabic ships sail.
+gra04312------West European ships sail
+gra04313------Back of North European ships sail - combine with gra04309?
+gra04314------Back of Asian ships sail - combine with gra04310?
+gra04315------Back of Arabic ships sail - combine with gra04311?
+gra04316------Back of West European ships sail - combine with gra04312
+gra04317------North European ships sail.
+gra04318------Asian ships sail.
+gra04319------Arabic ships sail.
+gra04320------West European ships sail.
+gra04321------Back of North European ships sail - combine with gra04317?
+gra04322------Back of Asian ships sail - combine with gra04318?
+gra04323------Back of Arabic ships sail - combine with gra04319
+gra04324------Back of West European ships sail - combine with gra04320
+gra04325------Back of North European ships sail
+gra04326------Back of Asian ships sail
+gra04327------Back of Arabic ships sail
+gra04328------Back of West European ships sail
+gra04330------Outpost
+gra04331------Transportation ship's hull
+gra04336------Shadow of a ship
+gra04338------Heavy Demolition Ship exploding.
+gra04347------Demolition Ship exploding.
+gra04348------Shadow for North European watch tower
+gra04349------Shadow for Asian watch tower
+gra04350------Shadow for Arabic watch tower
+gra04351------Shadow for West European watch tower
+gra04356------Flag
+gra04358------Flag same as gra04356 etc
+gra04359------Flag same as gra04356 etc
+gra04360------Flag same as gra04356 etc
+gra04362------Flag same as gra04356 etc
+gra04363------Flag same as gra04356 etc
+gra04364------Shadow for the outpost
+gra04368------Waterline water effects for a ship
+gra04369------Large Pyramid
+gra04370------Explosion?
+gra04373------Berserker attacking
+gra04376------Berserker dying
+gra04379------Berserker standing
+gra04383------Berserker moving
+gra04386------Berserker attacking - appears identical to gra04373
+gra04389------Berserker dying - appears identical to gra04376
+gra04392------Berserker standing - appears identical to gra04379
+gra04393------Berserker decaying
+gra04396------Berserker moving - appears identical to gra04383
+gra04397------Dock building sequence
+gra04410------Unknown hero attacking
+gra04413------Unknown hero dying as above
+gra04416------Unknown hero standing as above
+gra04417------Unknown hero decaying as above
+gra04420------Unknown hero moving as above
+gra04474------Cactus
+gra04476------Skeleton
+gra04477------Unknown 135 frame animated sequence
+gra04478------Crater
+gra04479------Gold Mine
+gra04480------Nine Bands trophy/flag of Gengis Khan.
+gra04481------Carpets.
+gra04482------Stone Mine sequence
+gra04486------Empty trade cart moving
+gra04487------Gaia Destroyed Ship / position
+gra04488------Gaia Destroyed Ship \ position
+gra04489------Large Yurt, thatched roof
+gra04490------Yurt door to left, thatched roof
+gra04491------Yurt with logs outside, thatched roof
+gra04492------Yurt door to right, thatched roof
+gra04493------Yurt, no door visible, canvas roof
+gra04494------Yurt, canvas roof, door to right
+gra04495------Yurt, canvas roof, door to left
+gra04496------Large Yurt, canvas roof
+gra04497------Saboteur standing
+gra04498------Saboteur moving
+gra04499------Beta Ice 
+gra04500------Unknown - small ball?
+gra04501------Shadow of a ships hull
+gra04502------Shadow of a ships hull
+gra04503------Shadow of a ships hull
+gra04508------Shadow of a ships hull
+gra04509------Shadow of a ships hull
+gra04510------Shadow of a ships hull
+gra04512------Shadow of a ships hull
+gra04513------Shadow of a ships hull
+gra04514------Shadow of a ships hull
+gra04515------Shadow of a ships hull
+gra04516------Shadow of a ships hull
+gra04517------Shadow of a ships hull
+gra04518------Birds from the dock
+gra04520------Smoke from ????
+gra04521------Flag
+gra04522------Same flag as gra04358?
+gra04523------Same flag as gra04358?
+gra04534------Flag - partial animation sequence?
+gra04537------Huscarl attacking.
+gra04538------Huscarl dying.
+gra04539------Huscarl standing
+gra04540------Huscarl decaying
+gra04541------Huscarl moving
+gra04572------Packed trebuchet dying
+gra04573------Packed Trebuchet decaying
+gra04574------Bottom Part of Forest Trees
+gra04575------Top Part of Forest Trees
+gra04577------Bottom Part of Palm Trees
+gra04578------Top Part of Palm Trees
+gra04580------Bottom Part of Pine Trees
+gra04581------Top Part of Pine Trees
+gra04583------Thrown scimitar sequence
+gra04584------Bamboo stumps
+gra04585------Construction sequence for Fish Trap
+gra04586------Explosion
+gra04587------Broken Bridge / position middle section
+gra04588------Broken Bridge / position left hand end
+gra04589------Broken Bridge / position right hand end
+gra04590------Broken Bridge \ position middle section
+gra04591------Broken Bridge \ position left hand end
+gra04592------Broken Bridge \ position right hand end
+gra04594------Mountain 3
+gra04595------Mountain 4
+gra04597------Floating rubble from a docks destruction?
+gra04598------North European ships main sail sequence
+gra04599------Asian ships main sail sequence
+gra04600------Arabic ships main sail sequence
+gra04601------West European ships main sail sequence
+gra04602------Female Villager forager moving
+gra04605------Explosion
+gra04606------Possible spear or arrow?
+gra04607------Loaded Trade Wagon dying
+gra04608------Loaded Trade Wagon standing
+gra04609------Loaded Trade Wagon decaying
+gra04610------Dark Age Town Center roof, right side
+gra04611------Dark Age Town Center, right side roof supports
+gra04612------Dark Age Town Center, right side roof support
+gra04613------North European Feudal Age Town Center, right side roof
+gra04614------Asian Feudal Age Town Center right side roof
+gra04615------Arabic Feudal Age Town Center right side roof
+gra04616------West European Feudal Age Town Center right side roof
+gra04617------North European Feudal Age Town Center right side roof supports
+gra04618------Asian Feudal Age Town Center right side roof supports
+gra04619------Arabic Feudal Age Town Center right side roof supports
+gra04620------West European Feudal Age Town Center right side roof supports
+gra04621------North European Fuedal Age Town Center far right roof support
+gra04622------Asian Fuedal Age Town Center far right roof support
+gra04623------Arabic Fuedal Age Town Center far right roof support
+gra04624------West European Fuedal Age Town Center far right roof support
+gra04625------North European Castle Age Town Center, right side roof
+gra04626------Asian Castle Age Town Center, right side roof
+gra04627------Arabic Castle Age Town Center, right side roof
+gra04628------West European Castle Age Town Center, right side roof
+gra04629------North European Castle Age Town Center, right side roof supports
+gra04630------Asian Castle Age Town Center, right side roof supports
+gra04631------Arabic Castle Age Town Center, right side roof supports
+gra04632------West European Castle Age Town Center, right side roof supports
+gra04633------North European Castle Age Town Center, right side roof support
+gra04634------Asian Castle Age Town Center, right side roof support
+gra04635------Arabic Castle Age Town Center, right side roof support
+gra04636------West European Castle Age Town Center, right side roof support
+gra04637------North European Imperial Age Town Center, right side roof
+gra04638------Asian Imperial Age Town Center, right side roof
+gra04639------Arabic Imperial Age Town Center, right side roof
+gra04640------West European Imperial Age Town Center, right side roof
+gra04641------North European Imperial Age Town Center, right side roof supports
+gra04642------Asian Imperial Age Town Center, right side roof supports
+gra04643------Arabic Imperial Age Town Center, right side roof supports
+gra04644------West European Imperial Age Town Center, right side roof supports
+gra04645------North European Imperial Age Town Center, right side roof support
+gra04646------Asian Imperial Age Town Center, right side roof support
+gra04647------Arabic Imperial Age Town Center, right side roof support
+gra04648------West European Imperial Age Town Center, right side roof support
+gra04649------Male Villager shepherd decaying
+gra04652------Forest Trees
+gra04653------Palm Trees
+gra04654------Pine Trees
+gra04655------Splash of Water
+gra04656------Female Villager shepherd decaying
+gra04657------North European wall shadows?
+gra04658------Asian wall shadows?
+gra04659------Arabic wall shadows?
+gra04660------West European wall shadows?
+gra04661------North European fortified wall shadows?
+gra04662------Asian fortified wall shadows?
+gra04663------Arabic fortified wall shadows?
+gra04664------West European fortified wall shadows?
+gra04665------Unknown 5 frame shadow sequence
+gra04666------Unknown 5 frame shadow sequence
+gra04667------Unknown 5 frame shadow sequence
+gra04668------Unknown 5 frame shadow sequence
+gra04669------Unknown 5 frame shadow sequence
+gra04670------Unknown 5 frame shadow sequence
+gra04671------Unknown 5 frame shadow sequence
+gra04672------Unknown 5 frame shadow sequence
+gra04673------Unknown 5 frame shadow sequence
+gra04674------Unknown 20 frame shadow sequence
+gra04675------Unknown 5 frame shadow sequence
+gra04676------Unknown 5 frame shadow sequence
+gra04677------Unknown 5 frame shadow sequence
+gra04678------Unknown 5 frame shadow sequence
+gra04679------Unknown 5 frame shadow sequence
+gra04680------Unknown 5 frame shadow sequence
+gra04681------VDML Cheat Guy
+gra04682------Possibly shadow sequence from pallisades
+gra04683------Shadow for Tower of the Flies gra04684
+gra04684------The Tower of Flies
+gra04685------Cobra Car
+Ter15000------Dirt 1
+Ter15001------grass
+Ter15002------Water 1
+Ter15004------Farm
+Ter15005------Dead Farm
+Ter15006------Dirt 2
+Ter15007------Some Dirt
+Ter15008------grass 1
+Ter15009------grass with dirt
+Ter15010------Clear Dirt or Desert
+Ter15011------Leaves 
+Ter15014------Shallow
+Ter15015------Water 2
+Ter15016------Water 3
+Ter15017------Desert? or Beach Like
+Ter15018------Road 1
+Ter15019------Road 2
+Ter15021------Bare Farm
+Ter15022------Farm
+Ter15023------Farm
+Ter15024------Ice
+gra04699------Snow patch - possibly for a building roof?
+gra04700------Snow patch
+gra04701------Snow patch
+gra04702------Snow patch
+gra04703------Snow patch
+gra04704------Snow patch
+gra04705------Snow patch
+gra04710------Wagon Tracks in Snow
+gra04716------Conquistador fighting
+gra04719------Conquistador dying
+gra04722------Conquistador standing
+gra04723------Conquistador decaying
+gra04726------Conquistador moving
+gra04727------Shadows for the jungle
+gra04728------Jungle
+gra04729------Footprints in snow
+gra04730------Tree/forest shadows
+gra04731------Snow covered trees
+gra04812------Shadow from Spanish Wonder
+gra04813------Shadow from Hun Wonder
+gra04814------Shadow from Mayan Wonder
+gra04818------Spanish Wonder
+gra04819------Hun Wonder
+gra04820------Mayan Wonder
+gra04823------Possibly an arrow - but only one frame ?
+gra04824------Possibly an arrow - but only one frame ?
+gra04825------Possibly an arrow - but only one frame ?
+gra04826------Eagle Warrior fighting
+gra04827------Eagle Warrior dying
+gra04828------Eagle Warrior standing
+gra04829------Eagle Warrior decaying
+gra04830------Eagle Warrior Moving
+gra04831------Jaguar fighting
+gra04832------Jaguar dying
+gra04833------Jaguar standing
+gra04834------Jaguar decaying
+gra04835------Jaguar moving
+gra04836------Horse dying
+gra04837------Horse standing
+gra04838------Horse dead
+gra04839------Horse moving
+gra04853------Hussar fighting
+gra04854------Hussar dying
+gra04855------Hussar standing
+gra04856------Hussar decaying
+gra04857------Hussar moving
+gra04858------Jaguar Warrior fighting
+gra04859------Jaguar Warrior dying
+gra04860------Jaguar Warrior standing
+gra04861------Jaguar Warrior decaying
+gra04862------Jaguar Warrior moving
+gra04865------Missionary converting
+gra04866------Missionary dying
+gra04867------Missionary standing
+gra04868------Missionary decaying
+gra04869------Missionary converting? Either this or gra04865 is converting the other is healing?
+gra04870------Missionary moving
+gra04871------Plumed archer fighting
+gra04872------Plumed archer dying
+gra04873------Plumed archer standing
+gra04874------Plumed archer decaying
+gra04875------Plumed archer moving
+gra04876------Shadow of a gate closed / position - probably for sea gate? for gra04878
+gra04878------Gate closed / position - probably sea gate? West European
+gra04879------Shadow of Gate open / position - probably sea gate? for gra04881
+gra04881------Gate open / position - probably sea gate? West European
+gra04882------Shadow - looks like some kind of tower?
+gra04883------Flag sequence - possibly for the sea gate?
+gra04884------Tall Pallisade gate tower - from sea gate trick
+gra04885------Shadows for Gate building sequence / position - possibly sea gate? for gra04886
+gra04886------Gate building sequence / position - looks like the West European - sea gate?
+gra04887------Shadow for gate closed \ position for gra04889
+gra04889------Gate closed \ position - West European
+gra04890------Shadow for gate open \ position for gra04892
+gra04892------Gate open \ position - West European
+gra04893------Shadows for Gate building sequence \ position - West European for gra04894
+gra04894------Gate building sequence \ position - West European
+gra04895------Shadow for gate closed -- position - for gra04897
+gra04897------Gate closed -- position - West European
+gra04898------Shadow of gate open -- position - for gra04900
+gra04900------Gate open -- position - West European
+gra04901------Shadows for gate building sequence -- position for gra04902
+gra04902------Gate building sequence -- position - West European
+gra04903------Shadow for gate closed | position - for gra04905
+gra04905------Gate closed | position - West European
+gra04906------Shadow for gate open | position for gra04908
+gra04908------Gate open | position - West European
+gra04909------Shadow for gate building sequence | position - for gra04910
+gra04910------Gate building sequence | position - West European
+gra04911------Shadow for a watch tower - appears to match the West European one?
+gra04912------Crashes Mod Pack Studio AND SLP Converter - what is it ! ! !
+gra04913------Unknown Shadow?
+gra04914------Flags - 45 frames but only 9 appear to be used?
+gra04915------Pallisade - appears to be identical to AOK palisade
+gra04916------Hun Tarkan fighting
+gra04917------Hun Tarkan dying
+gra04918------Hun Tarkan standing
+gra04919------Hun Tarkan decaying
+gra04920------Hun Tarkan moving
+gra04921------Shadow for Aztec Wonder
+gra04923------Aztec Wonder
+gra04926------South American Archery range Feudal Age
+gra04929------South American Archery Range Castle Age
+gra04931------South American Blacksmith Feudal Age
+gra04933------Smoke for the South American blacksmith
+gra04934------South American Blacksmith Castle Age
+gra04935------South American triangular sail
+gra04936------South American small triangular sail
+gra04937------South American back of small triangualer sail
+gra04938------South American small triangular sail
+gra04939------South American back of small triangular sail
+gra04944------South American Barracks Dark Age
+gra04947------South American Barracks Castle Age
+gra04950------Sail - North European style
+gra04953------South American Temple
+gra04954------Shadow for South American Castle
+gra04956------South American Castle
+gra04957------Shadow for South American dock Feudal Age
+gra04958------South American Dock Feudal Age
+gra04959------Shadow for South American dock Castle Age
+gra04960------South American Dock Castle Age
+gra04963------Beta Dock from AOK gra00409?
+gra04964------graveyard monuments
+gra04965------Shadow for South American closed gate / position gra04967
+gra04967------South American gate closed / position
+gra04968------Shadow for South American fortified gate / position gra04970
+gra04970------South American fortified gate closed / position
+gra04971------Shadow for South American gate open / position gra04973
+gra04973------South American gate open / position
+gra04974------Shadow for South American fortified gate open / position gra04976
+gra04976------South American fortified gate open / position
+gra04977------Shadow for South American gate tower gra04978
+gra04978------Flags possibly for the gate towers?
+gra04979------South American gate tower
+gra04980------Shadow for South American fortified gate tower gra04982
+gra04981------Flags possibly for the fortified gate towers?
+gra04982------South American fortified gate tower
+gra04983------Shadow for South American gate building sequence / position gra04984
+gra04984------South American gate building sequence / position
+gra04985------Shadow for South American fortified gate building sequence / position gra04986
+gra04986------South American fortified gate building sequence
+gra04987------Shadow for South American gate closed \ position gra04989
+gra04989------South American gate closed \ position
+gra04990------Shadow for South American fortified gate closed \ position gra04992
+gra04992------South American fortified gate closed \ position
+gra04993------Shadow for South American gate open \ position gra04995
+gra04995------South American gate open \ position 
+gra04996------Shadow for South American fortified gate open \ position gra04998
+gra04998------South American fortified gate open \ position
+gra04999------Shadow for South American gate building sequence \ position gra05000
+gra05000------South American gate building sequence \ position
+gra05001------Shadow for South American fortified gate building sequence \ position gra05002
+gra05002------South American fortified gate building sequence \ position
+gra05003------Shadow for South American gate closed -- position gra05005
+gra05005------South American gate closed -- position
+gra05006------Shadow for South American fortified gate closed -- position gra05008
+gra05008------South American fortified gate closed -- position
+gra05009------Shadow for South American gate open -- position gra05011
+gra05011------South American gate open -- position
+gra05012------Shadow for South American fortified gate open -- position gra05014
+gra05014------South American fortified gate open -- position
+gra05015------Shadow for South American gate building sequence -- position gra05016
+gra05016------South American gate building sequence -- position
+gra05017------Shadow for South American fortified gate building sequence -- position gra05018
+gra05018------South American fortified gate building sequence -- position
+gra05019------Shadow for South American gate closed | position gra05021
+gra05021------South American gate closed | position
+gra05022------Shadow for South American fortified gate closed | position gra05024
+gra05024------South American fortified gate closed | position
+gra05025------Shadow for South American gate open | position gra05027
+gra05027------South American gate open | position
+gra05028------Shadow for South American fortified gate opn | position gra05030
+gra05030------South American fortified gate opn | position
+gra05031------Shadow for South American gate building sequence | position gra5032
+gra05032------South American gate building sequence | position
+gra05033------Shadow for South American fortified gate building sequence | position gra05034
+gra05034------South American fortified gate building sequence | position
+gra05035------Heads on posts
+gra05038------South American House Dark Age
+gra05041------South American House Feudal Age
+gra05042------Shadow of Parakeet gliding gra05042
+gra05043------Parakeet gliding
+gra05044------Shadow for Parakeet flying gra05045
+gra05045------Parakeet flying
+gra05046------Shadow for Feudal Age South American mill gra05047
+gra05047------South American Feudal Age Animated sail sequence for mill
+gra05048------South American Feudal Age Mill
+gra05049------Shadow for Castle Age South American mill gra05050
+gra05050------South American Castle Age animated sail sequence for mill
+gra05051------South American Casle Age Mill
+gra05052------Shadow for rope stays for mill
+gra05055------South American Mining Camp
+gra05058------South American Market Feudal Age
+gra05061------South American Market Castle Age
+gra05062------South American Market Imperial Age
+gra05063------Plants
+gra05065------Unknown Shadow
+gra05067------South American Town Center feudal age left side roof
+gra05068------South American town center feudal age left side roof two supports
+gra05069------South American town center feudal age left side roof single support
+gra05070------South American town center feudal age right side roof
+gra05071------South American town center feudal age right side roof single support
+gra05072------South American town center feudal age right side roof single support
+gra05073------South American town center center section feudal age
+gra05074------Shadow - possibly from South American feudal age town center
+gra05076------South American town center castle age left side roof
+gra05077------South American town center castle age left side roof two supports
+gra05078------South American town center castle age left side roof single support
+gra05079------South American town center castle age right side roof
+gra05080------South American town center castle age right side roof single support
+gra05081------South American town center castle age right side roof single support
+gra05082------South American town center center section castle age
+gra05083------Shadow - possibly from South American castle age town center
+gra05084------North European Imperial age town center flooring
+gra05085------South American town center imperial age left side roof
+gra05086------South American town center imperial age left side roof two supports
+gra05087------South American town center imperial age left side roof three supports
+gra05088------South American town center imperial age right side roof
+gra05089------South American town center imperial age right side roof three supports
+gra05090------South American town center imperial age right side roof single support
+gra05091------South American town center imperial age center section
+gra05092------South American triangular sail sequence sail emptying
+gra05093------South American triangular sail sequence sail filling
+gra05094------South American small triangular sail
+gra05095------South American medium triangular sail
+gra05096------Back of South American triangular sail
+gra05097------South American triangular sail
+gra05098------Back of large South American triangular sail
+gra05099------Back of medium South American triangular sail
+gra05100------Signpost
+gra05101------Shadow from siege workshop
+gra05103------South American Siege Workshop
+gra05106------South American lumber mill
+gra05107------Statue
+gra05110------North European feudal age stable same as gra01006
+gra05113------North European castle age stable same as gra01018
+gra05116------West European trade workshop same as gra01136
+gra05118------Unknown small dot
+gra05119------South American University Castle Age
+gra05121------Unknown small dot
+gra05122------South American University Imperial Age
+gra05123------Shadow for South American stone wall gra05124
+gra05124------South American Stone Wall
+gra05125------Shadow for South American fortified wall gra05126
+gra05126------South American Fortified Wall
+gra05127------Unused two headed lion sail
+gra05128------Shadow of South American wall building sequence gra05129
+gra05129------South American wall building sequence
+gra05130------Shadow of South American fortified wall building sequence gra05131
+gra05131------South American fortified wall building sequence
+gra05132------Shadow for South American Feudal age watchtower gra05134
+gra05134------South American Watchtower Feudal Age
+gra05135------Shadow for South American Castle Age watchtower gra05137
+gra05136------Flag sequence probably for watchtower
+gra05137------South American Watchtower Castle Age
+gra05138------Shadow for South American Watchtower Imperial Age gra05140
+gra05139------Flag sequence probably for watchtower
+gra05140------South American Watchtower Imperial Age
+gra05141------Shadow for Bombard tower
+gra05142------Flag sequence probably for bombard tower gra05143
+gra05143------North European Bombard Tower
+gra05144------Shadow for South American stone wall damaged gra05145
+gra05145------South American Stone wall damaged
+gra05146------Shadow for South American fortified wall damaged gra05147
+gra05147------South American Fortified wall damaged
+gra05148------Shadow for South American stone wall badly damaged gra05149
+gra05149------South American Stone wall badly damaged
+gra05150------Shadow for South American fortified wall badly damaged gra05151
+gra05151------South American Fortified wall badly damaged
+gra05152------Shadow for South American stone wall very badly damaged gra05153
+gra05153------South American Stone wall very badly damaged
+gra05154------Shadow for South American fortified wall very badly damaged gra05155
+gra05155------South American Fortified wall very badly damaged
+gra05164------Turkey running
+gra05165------Turkey standing
+gra05166------Turkey  decaying
+gra05167------Turkey walking
+gra05168------Shadow for the Turtle ship ?
+gra05175------Debris from sinking ship identical to gra00495 etc
+gra05176------Shadow from Turtle ship?
+gra05182------Shadow from Turtle ship?
+gra05204------Horses from the warwagon standing
+gra05207------Horses and the warwagon dying
+gra05210------Horses from the warwagon standing identical to gra05204
+gra05211------Horses and the warwagon decaying
+gra05214------Horses and wheel from the warwagon moving
+gra05215------Shadow from Korean wonder
+gra05217------Korean Wonder
+gra05218------Korean Turtle ship
+gra05219------Korean Turtle ship appears identical to gra05218
+gra05220------Korean Turtle ship appears identical to gra05218 and gra05219
+gra05238------Korean War Wagon
+gra05239------Korean War Wagon appears identical to gra05238
+gra05240------Korean War Wagon appears identical to gra05238 and gra05239
+gra05241------ES Flag
+gra05242------Flag Shadows - possibly for gra05241
+gra05284------South American priest converting
+gra05285------South American priest dying
+gra05286------South American priest standing
+gra05287------South American priest decaying
+gra05288------South American priest converting appears identical to gra05284
+gra05289------South American priest walking
+gra05290------South American priest standing with relic
+gra05291------South American priest walking with relic
+gra05292------Roman Ruins
+gra05293------Ruined stone heads
+gra05294------Ruined trade cart
+gra05295------Flower patches
+gra05296------Haystacks
+gra05297------Monkey fighting
+gra05298------Monkey exploding
+gra05299------Monkey standing
+gra05300------Some part of the Monkey?
+gra05301------Monkey moving
+gra05302------Shadow of the flying dog
+gra05303------Flying Dog
+gra05305------South American empty trade cart dying
+gra05306------South American empty trade cart standing
+gra05307------South American empty trade cart decaying
+gra05308------South American empty trade cart moving
+gra05309------South Americant loaded trade cart dying
+gra05310------South American loaded trade cart standing
+gra05311------South American loaded trade cart decaying
+gra05312------South American loaded trade cart moving
+Ter15024------Ice
+Ter15026------Snow
+Ter15027------Snow with dirt
+Ter15028------Snow with grass
+Ter15029------Snow with ?????
+Ter15030------Road with snow
+Ter15031------Road with fungus

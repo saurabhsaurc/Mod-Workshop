@@ -1,0 +1,347 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Modworkshop beta</title>
+</head>
+
+<body text="#000080">
+
+<p><font face="Vineta BT" size="6" color="#0000FF">ModWorkshop</font></p>
+<p><font face="Century Gothic" size="4"><b>Preface</b></font></p>
+<p>&nbsp;&nbsp;&nbsp; Mod workshop is a modding program for the games Aok, SWGB
+and AoE. which use SLP based graphics.This is the help file for the final version. I spent a lot of time writing this, so hope you find it useful!</p>
+<p>You need to have java installed for this program to work. Download whichever
+version you like ( and fits your operating system ) from&nbsp;</p>
+<p><a href="http://java.sun.com/javase/downloads/index.jsp" target="_blank">http://java.sun.com/javase<wbr>
+/downloads/index.jsp</a></p>
+<p>For those who are not programmers, it is better to install only the runtime
+environment ( JRE) because it is only 15 mb compared to the full development kit
+which is like 70 mb.<br>
+<br>
+The best way to find out if java is installed or not it to go to the command
+prompt and type java<br>
+If it gives some options, usage etc. then you do have it. If it gives bad
+command or filename then you don't.</p>
+<p><font face="BankGothic Md BT" size="6" color="#0000FF">Basics</font></p>
+<p>A lot of people don't start with the basics - they jump directly into modding
+and then end up all confused as to what a frame is and what a palette is. I will
+explain from bottom up the elements that go into making what you see on your
+screen.</p>
+<p><b><font size="4">Pixel</font></b>:&nbsp;</p>
+<p>A pixel is a point on the screen and the basic building block of any type of
+image. Each pixel is made up of three colours - red, green and blue (RGB) mixed
+together in certain proportions.For example, white is RGB(255,255,255).&nbsp; In
+a palette-based image, the pixel is an index into a palette array which stores
+the RGB data.</p>
+<p><b><font size="4">Bitmap</font></b></p>
+<p>The bitmap (.bmp) is a historic file format used by a historic (although
+still used ) operating system called Windows. It has a very simple structure and
+is easy to manipulate. It can be edited using a simple editor like paint.
+Bitmaps have many formats, the most widely used are 256 color and 24 bit (true
+color) bitmaps.</p>
+<p>A 256 color bitmap contains a palette, ( or color table ), and each pixel is
+represented as a palette index. For now we will only use this type because Aok
+is a 256 color game.</p>
+<p>A 24 bit bitmap stores the pixels directly by their RGB values and has no
+palette.</p>
+<p><font size="4"><b>Color table, aka Palette</b></font></p>
+<p>A palette or color table is an array of colours specified by their RGB
+values. For example the 50500 palette of Aok has 256 indices. The RGB value of
+the first index is (0,0,0) which corresponds to black. Similarly palette index
+244 is a sort of yellow. You can easily view the 50500 palette using MPS , or
+Photoshop if you have it.</p>
+<p>The palette indices 16-23 are shades of blue which are used as 'player
+colours'. They will be important later on.</p>
+<p><i>MPS note - MPS sometimes does not recognize index 16 as player color, and
+sometimes recognizes 1-7 as player colours.</i></p>
+<p><b><font size="4">Frame</font></b></p>
+<p>A frame is a basic unit of a large structure called an SLP. Each frame
+contains the following:</p>
+<p><b>Image</b>:&nbsp; The image itself</p>
+<p><b>
+Transparency mask</b> : The area which
+will be rendered as transparent when the frame is displayed on the screen.</p>
+<p><i>MPS note - the palette index 255 is used as the transparency mask. But
+since palette index 135 also has the same RGB values, images edited often have
+the pixels with originally index 255 saved as index 135, giving rise to the
+notorious &quot;white boxes of doom&quot;.</i></p>
+<p><b>Player colour mask</b>: The area which will be rendered as a &quot;player
+colour&quot; depending on the player number in the game. For convenience
+purposes, we usually deal with player 0 - blue color.</p>
+<p><i>MPS note - the &quot;shadow-player mask&quot; is a misguided invention of
+MPS which combines the transparency and player color masks.</i></p>
+<p><b>Outline1 mask</b>: The area which will be rendered as an outline, usually
+of the player colour, when the unit is behind another object. This is the
+'selection mask' of MPS.</p>
+<p><i>Note - The outline mask is only for Aok and SWGB, not for AoE.</i></p>
+<p><b>Outline2 mask</b>: Similar to the above, but of a different color, usually black.</p>
+<p><i>Note - The outline 2 mask is only for SWGB</i></p>
+<p><b>Shadow pixels</b>: The area which will be rendered semi transparent,
+allowing you to see dimly what is behind it. This is used primarily for building
+shadows. Unit shadows </p>
+<p><i>Note - This must not be confused with 'shadow mask' which is used to
+describe the transparency mask. To avoid confusion, I refer to it as the
+transparency mask.</i></p>
+<p><i>Note- It may be surprising to hear that Aok doesn't actually have
+transparency, selection masks etc. These are just useful abstract terms and can
+be easily represented as a bitmap however the SLP format stores them in a rather
+different manner.</i></p>
+<p><b><font size="4">SLP</font></b></p>
+<p>An SLP is a basic format that graphical formats are stored in and accessed by
+the Aok game engine.For instance, the collection of attacking frames for the
+Militia are stored in one SLP. An SLP can be understood to have <b>N</b> frames
+and <b>N</b> sets of &quot;anchors&quot;. Anchors are a pair of x and y values
+which store the point at which the unit is &quot;anchored&quot; to the
+background. Here <b>N</b> is the number of frames and depends on the SLP.</p>
+<p>We will be dealing mostly with SLP files.</p>
+<p><i>MPS note - You cannot change the number of frames that a unit has in MPS</i></p>
+<p><i>MPS note- The anchors are exported via a format called csv ( Comma
+separated values )</i></p>
+<p><b><font size="4">DRS</font></b></p>
+<p>DRS files are large databases which consist of several SLP files and are
+directly referred to by the game engine. For example graphics.drs consists of a
+few thousand SLP files. DRS files also consist of other stuff - .wav ( sound
+files ), AI , Random maps, etc. We will be dealing mostly with graphics.drs</p>
+<p>DRS files can be read using DRS_Aok ( included in zip ) and modified using
+drsbuild, amongst other things.</p>
+<p><font face="BankGothic Md BT" size="6" color="#0000FF">SLP Reader and Writer</font></p>
+<p>I will be describing how to use the SLP reader and writer programs that I
+have created.</p>
+<p>Have a look at your Mod workshop folder. Navigate to inputdir. We will be
+working with the file named 3607.slp which is a pillar.</p>
+<p>Open DRS_Aok (which is in the resources section ), load your graphics.drs and look at the 3607. Yep, it's a
+pillar. You can extract it using this great tool by Ykkrosh, but you don't need
+to as I have already done it for you.</p>
+<p><b><font size="4">SLP Reader</font></b></p>
+<p>Double click SLP reader.bat ( if you're running windows. little different for
+others ). The SLP reader will load.</p>
+<p>Enter &quot;1&quot; and then enter 3607 ( or&nbsp; 3607.slp )<br>
+Then enter &quot;2&quot; to save as frames and anchors. If you just enter a
+blank in the next request (directory path ), it will get saved in a directory
+called Frames03607 in outdir in your modworkshop folder.</p>
+<p>You can now view the frames. And don't say Oooh, green background. There is
+absolutely no reason for the background to be white - this is just an MPS
+convention and also leads to the white boxes of doom. You can change this using
+palette converter but I won't go into that here.</p>
+
+<p>The anchors will be saved as a CSV file in the same directory.</p>
+
+<p>You can search for a particular slp using the search function.</p>
+
+<p><b><font size="4">SLP Writer</font></b></p>
+<p>Double click SLP writer.bat .The SLP writer will load.</p>
+
+<p>Enter &quot;1&quot; and then enter Frames03607 ( this is the directory
+relative to outdir where the frame was stored, remember? )</p>
+
+<p>Then enter &quot;2&quot;. Masks will be created - transparency , player and
+outline masks. You can see 'em in your Frames03607 directory.</p>
+
+<p>Then enter &quot;6&quot;. The SLP will be written to the file you desire.
+Enter &quot;out.slp&quot; ( or just press enter ).&nbsp; If all goes well,
+you'll find a new file called &quot;out.slp&quot; in your outdir.</p>
+
+<p>How do you know what this out.slp contains? Just enter &quot;7&quot; in the
+menu and press enter, then again enter. Then the frames will be saved in a
+directory called Frames-out. You'll find it's identical to the original frame.</p>
+
+<p>What was the point of de-assembling an SLP and re-assembling it? Nothing,
+just an illustration. Now create an SLP using the dragon attacking frames in the
+same way :D</p>
+
+<p>Note:- the dragon attacking frames are in a different palette so if you
+import it into MPS it'll look all weird. However ModWorkshop's SLP writer
+contains an auto- palette converter so you don't need to worry about that.</p>
+
+<p><b><font size="4">DRS build</font></b></p>
+<p>DRS build is a utility to build drs files.</p>
+
+<p>Copy your graphics.drs and the new out.slp to the DRSbuild directory. Rename
+out.slp to gra03607.slp and run minstall.bat . It should run and give you a new
+DRS file.</p>
+<p>Of course there won't be any difference if you do it for 3607. However do it
+for the dragon's attacking frames and save it as gra00782.slp. Then instead of a
+mangudai attacking you'll have a dragon :)</p>
+
+<p><b><font size="4">NSIS install script generator</font></b></p>
+<p>The NSIS install script is a great way to install the mod. More details can
+be found in <a href = "http://aok.heavengames.com/blacksmith/showfile.php?fileid=8056">Dave Earl's install script tutorial</a>.</p>
+
+<p>To generate an install script, run install_script.bat and follow the
+instructions as in Tutorial 5.&nbsp;</p>
+
+<p><font face="BankGothic Md BT" size="6" color="#0000FF">Tutorials</font></p>
+<p>In depth tutorials for you to understand modding better</p>
+
+<p>Tutorial 1. Dark tower ( building, basics)<br>
+Tutorial 2. Darth Maul (unit, frame adjustment by dat editing)<br>
+Tutorial 3. Scrolling text (multiple frames, pallete)<br>
+Tutorial 4. Black Phantom (shadow, CVT files)<br>
+Tutorial 5. Putting it all together ( custom install script generator )</p>
+<p><b><font size="4">Tutorial 1. Goth wonder to Dark tower</font></b><br>
+<br>
+We will convert the Goth wonder into a dark tower. This graphic is from
+Jorgito_Aqua27's building pack.</p>
+<p>Look up the resource number of the Goth wonder in the Word file. It is 3535.</p>
+<p>Look in your outdir directory. There is already a folder named Frames03535.
+This contains the building and the anchor. Now we need to compile this into an
+SLP.</p>
+<p>Open SLP writer. Go to 1. Open Working directory and enter Frames03535. Then
+go to 2. Create masks. The Masks will be created. Then go to 6. write SLP and
+enter 3535.slp</p>
+<p>Your new slp is complete and saved as 3535.slp.<br>
+<br>
+<b><font size="4">Tutorial 2. Champion to Darth Maul</font></b><br>
+<br>
+In this tutorial we will be importing the Darth Maul unit of SWGB and change the champion's graphics to Darth Maul. It is in the same palette as Aok and hence no palette conversion will be necessary. However we will need to adjust the number of frames for it to appear correctly.<br>
+<br>
+This is also our first example of combining dat editing and modding. The most important purpose is to change the number of frames, which we will do here.<br>
+<br>
+Actually the Darth Maul SLP can be directly used by Aok as it is in the same palette, but it would be good to get rid of the 'outline2' mask which Aok will not recognize.<br>
+<br>
+The SLP's can be extracted from SWGB using the DRS Viewer program by Ykkrosh. Alternatively, I provide the SLP's in the input directory as 1804..1810.slp .<br>
+<br>
+a) Convert the SLPs to bitmaps using the SLP reader as mentioned in the previous tutorial. Open SLP reader, select 1, enter 1804 ( or 1804.slp), then save as frames and anchors. You don't really need to change the output directory- it is usually convenient to just use the default outdir. Frames corresponding to 1804.slp will be saved in the directory outdir\Frames01804\ . In this directory you will find bitmaps G0180401.bmp.. and a csv file 01804.csv for anchors.<br>
+<br>
+b) Open SLP writer. Select 1. Open working directory. Enter Frames01804 . Then select 2. Create Masks. You'll see that masks have been created for every frame and the originally green background of the bitmaps has become white. This is because it has been auto-palette converted which also changes the background to palette index 255 (white) in case you want to use it for MPS. Modworkshop also follows MPS naming convention for bitmaps.<br>
+<br>
+c) Select 5. Write SLP. Enter 3085.slp ( this is because you want to convert the attacking Maul's 1804.slp to the champion's attacking slp which in this case is
+3085&nbsp; ). The SLP will be created. Do so for all the SLP's.<br>
+<br>
+d) We also need to adjust the number of frames in the empires2_x1_p1.dat file. This is because the champion had only 10 frames per angle
+for dying frame while Darth Maul has 12. Similar for walking and standing Open up Genied1, extract the data, create the patches file. Then look up the
+dying champion's graphic slot in Genied3. You'll find that it's 2899. Hence enter into the patches file<br>
+<br>
+graphic_2899_numframes: 12<br>
+graphic_2906_numframes: 8<br>
+graphic_2902_numframes: 8<br>
+<br>
+And compile with Genied1. A more general way to do this is discussed in the
+Genied1 tutorial you can find at the blacksmith.</p>
+<p>However another way, not involving data file would be to 'fix' the number of
+frames. You see that the number of frames in the dying champion's sequence is
+10, which is 2 less than that of Maul. Hence you can just delete 2 frames from
+each angle of maul's dying frames. Also delete the corresponding values from the
+csv file. A convenient thing to do would be to delete the last 2 frames of each
+angle.</p>
+<p>Because SLP writer does not care what the bitmaps are named as long as they
+are in alphabetical order and have a G in front of the name, you can simply
+compile the new SLP in the same way.</p>
+<p>For the standing and moving sequences, the number of frames is less than
+required. Here you can use the renaming program, which you'll find in the
+Sources directory. Enter the full pathname of your directory, select 3 ( normal
+naming format ) and enter the new number of frames ( 10 ). The last frame in
+each angle will then get copied into another 2 frames. Now you can compile it
+into an SLP. Don't forget to change the csv file too. The renaming program is
+slightly unreliable, and I am working on making it more user friendly.</p>
+<p>A better way of doing the above is to copy and rename the last frame in each angle so that it alphabetically fits in between. For example if you are trying to fit a 8 frame per angle into 10 frame per angle, copy and rename the last frame to graxxxx08A and graxxxx08B. This way you have inserted two frames between graxxxx08 and graxxxx09.
+</p>
+<p>You can find the modified folders on the moving and dying SLPs in your outdir
+folder. Also, you can use AGE ( advanced genie editor ) to do the job.</p>
+<p>
+<b><font size="4">Tutorial 3. Scrolling Text</font></b><br>
+<br>
+In this tutorial we will create a Star Wars type scroller.</p>
+<p>First in order to make the scroll text we will need to use some program. I
+have used 3Ds Max, but that is akin to using a sledgehammer to crush a fly.
+There are probably many other programs to do the trick. I have rendered it into
+optimized palette bitmaps. This means that every bitmap has a different palette.
+So if I try to use the palette converter program to try converting the bitmaps,
+the result will be disastrous.</p>
+<p>Fortunately, there is already a palette converter within the slp writer
+program which converts every bitmap to aok palette. So open SLP writer, go to
+load frames, type framesscroll ( the directory where the bitmaps are located ).
+In settings, turn off automatic mask ( You don't want a mask ), and in options,
+turn off mask, player colour and outline.</p>
+<p>Then get the frame data and compile the SLP. You will also need a csv file.
+Simply make it in excel by copying the value ( 160,400 ) to 80 cells. The high y
+value is such because we are going to replace a flag and need to ensure that the
+flag's line of sight does not interfere with the scroller.</p>
+<p>We will be replacing flag A. Thus, compile it as 3580.slp . We need to change
+the number of frames etc. by data editing. Copy the following into your
+patches.txt file.</p>
+<p>graphic_3268_unknown02: 0 0.4 0<br>
+graphic_3268_numframes: 80</p>
+<p>The unknown value replaced is the frames / sec, which should be high enough
+to see the scroll clearly.<br>
+</p>
+<p><b><font size="4">Tutorial 4. Teutonic knight to black phantom</font></b><br>
+<br>
+In this example we will learn to use CVT files and also about 'shadow pixels'.<br>
+<br>
+A CVT file is an ascii file in which some palette indices are replaced by others. You will find the file named shadow.cvt in your input directory. Open it using notepad. You will find several lines of this sort...<br>
+155 131<br>
+156 131<br>
+..<br>
+What this means is that when the cvt is used, it will convert all pixels with palette index 155 to palette index
+131.&nbsp;<br>
+<br>
+We mean to convert every color in the teutonic knight to palette index 131 except for index 0 ( black ).<br>
+<br>
+"Shadow pixels" are semi transparent pixels which darken what is behind them. They have no color of their own. We want to convert the teutonic knight to a semitransparent phantom which a black shadow however.<br>
+<br>
+The SLP's used are 1188..1194.slp<br>
+<br>
+a) Open SLP reader and extract frames for 1188.slp in Frames01188 in the output directory in the usual way. Open SLP writer and load the frames from Frames01188. Create masks.<br>
+<br>
+b) Select "Apply CVT" and then enter shadow.cvt . Note: this does not change the bitmaps themselves but only their representation in memory. You will not get to preview it. Turn on shadow pixels by going to 3. Options->5. Shadow pixels.
+This causes the palette index 131 to be recognized as a shadow color.Then save as 1188.slp .<br>
+<br>
+c) If you want to preview what an SLP looks like on applying a cvt, you can use Mod Pack studio and apply the cvt. It's preferable to do that BUT- it won't recognize index 131 as shadow
+pixels unless it is in a building shadow slp.<br>
+<br>
+<b><font size="4">Tutorial 5. Install script</font></b><br>
+<br>
+We will now create an install script to install the above slp's. and include a custom dat.</p>
+<p>First, create a directory structure for the installation in your output
+directory (or anywhere). It should be like this</p>
+<p>-installmaul<br>
+--Eula.txt<br>
+--Data<br>
+---drsbuild.exe<br>
+---graphics<br>
+----1188.slp<br>
+----....<br>
+----3535.slp<br>
+---terrain<br>
+----...<br>
+---interfac<br>
+----...<br>
+---empires2_x1_p1.dat
+</p>
+
+<p>(You must have the patched version)<br>
+
+Use the custom install script generator. Enter the full pathname. eg.
+C:\Games\Modworkshop\maulinstall&nbsp; ( or whatever ) . Enter the name as Darth
+Maul Mod. Then enter your own name and then the script's name eg maul.nsi . Then
+maul.nsi will be written to your output directory.
+</p>
+
+<p>I have included the Maul install directory in the examples folder, before and
+after the install script generator was run.
+</p>
+
+<p>The terrain SLP's included are a volcano terrain and lava SLP from Star Wars
+Galactic Battlegrounds. The interfac SLP changes the briton interface, courtesy
+of Age of Chivalry.
+</p>
+
+<p>In case you forget to copy drsbuild.exe, it will be automatically copied for
+you from the resources directory. If you forget to put in a Eula, an automatic
+one will be generated for you.
+</p>
+
+<p>
+<br>
+Use NSIS install script to create the installer. Then follow instructions to
+install it and play the campaign included.
+</p>
+
+</body>
+
+</html>
